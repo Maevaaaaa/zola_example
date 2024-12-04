@@ -17,4 +17,4 @@ toc = true
 
 [^1]blblbl
 
-! [jsp](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
+! [jsp](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)[jsp]
