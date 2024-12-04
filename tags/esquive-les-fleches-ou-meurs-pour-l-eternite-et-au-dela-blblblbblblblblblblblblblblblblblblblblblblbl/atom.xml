@@ -27,12 +27,16 @@
 &lt;li&gt;pommes
 &lt;ul&gt;
 &lt;li&gt;blblblbblblblblblblblblblblblblblblblblblblbl&lt;&#x2F;li&gt;
-&lt;li&gt;uhxunhazhl [^1]&lt;&#x2F;li&gt;
+&lt;li&gt;uhxunhazhl&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;p&gt;[^1] blblbl&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;jsp&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;blblbl &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
 </content>
         
     </entry>
